@@ -22,7 +22,7 @@ I'm always open to collaborating on open-source projects, frontend challenges, o
 
 ### 📫 Let's Connect!
 * 📧 **Email:** saurabhshukla3107@gmail.com
-* 💼 **LinkedIn:** [Your LinkedIn Profile Link Here]
+* 💼 **LinkedIn:** https://www.linkedin.com/in/saurabh-shukla-457821196/
 
 <!---
 Saurabh-Shukla/Saurabh-Shukla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
